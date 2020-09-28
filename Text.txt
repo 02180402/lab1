@@ -1,2 +1,6 @@
 This is an original file content
+
 This is a line added from local Git
+
+this is the line added from Remote Server
+
